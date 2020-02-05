@@ -11,7 +11,7 @@
         </PropertyState>
         <PropertyState>
           <option name="name" value="authType" />
-          <option name="value" value="DEVICE_FLOW" />
+          <option name="value" value="CREDS" />
         </PropertyState>
         <PropertyState>
           <option name="name" value="lastContextKey" />
