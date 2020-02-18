@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Selected Directory" />
-    <option name="defaultScopeName" value="Selected Directory" />
-    <option name="SEARCH_SCOPE" value="Selected Directory" />
+    <option name="customScope" value="File '.../Data/Models/DeliveryNote.cs'" />
+    <option name="defaultScopeName" value="File '.../Data/Models/DeliveryNote.cs'" />
+    <option name="SEARCH_SCOPE" value="File '.../Data/Models/DeliveryNote.cs'" />
   </component>
 </application>
