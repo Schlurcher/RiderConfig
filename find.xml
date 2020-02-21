@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../Data/IProductDetails.cs'" />
-    <option name="defaultScopeName" value="File '.../Data/IProductDetails.cs'" />
-    <option name="SEARCH_SCOPE" value="File '.../Data/IProductDetails.cs'" />
+    <option name="customScope" value="File '.../Data/ILineItem.cs'" />
+    <option name="defaultScopeName" value="File '.../Data/ILineItem.cs'" />
+    <option name="SEARCH_SCOPE" value="File '.../Data/ILineItem.cs'" />
   </component>
 </application>
