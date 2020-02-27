@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../WebApi/Product/ProductModel.cs'" />
-    <option name="defaultScopeName" value="File '.../WebApi/Product/ProductModel.cs'" />
-    <option name="SEARCH_SCOPE" value="File '.../WebApi/Product/ProductModel.cs'" />
+    <option name="customScope" value="Project 'WebApp'" />
+    <option name="defaultScopeName" value="Project 'WebApp'" />
+    <option name="SEARCH_SCOPE" value="Project 'WebApp'" />
   </component>
 </application>
