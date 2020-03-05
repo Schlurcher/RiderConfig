@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../Data/Models/Invoice.cs'" />
-    <option name="defaultScopeName" value="File '.../Data/Models/Invoice.cs'" />
-    <option name="SEARCH_SCOPE" value="File '.../Data/Models/Invoice.cs'" />
+    <option name="customScope" value="Selected Files And Folders" />
+    <option name="defaultScopeName" value="Selected Files And Folders" />
+    <option name="SEARCH_SCOPE" value="Selected Files And Folders" />
   </component>
 </application>
