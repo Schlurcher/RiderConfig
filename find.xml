@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../Services/Authentication/User.cs'" />
-    <option name="defaultScopeName" value="File '.../Services/Authentication/User.cs'" />
-    <option name="SEARCH_SCOPE" value="File '.../Services/Authentication/User.cs'" />
+    <option name="customScope" value="File '.../Services/IAuditable.cs'" />
+    <option name="defaultScopeName" value="File '.../Services/IAuditable.cs'" />
+    <option name="SEARCH_SCOPE" value="File '.../Services/IAuditable.cs'" />
   </component>
 </application>
