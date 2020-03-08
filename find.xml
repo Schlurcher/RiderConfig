@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../Data/DataContext.cs'" />
-    <option name="defaultScopeName" value="File '.../Data/DataContext.cs'" />
-    <option name="SEARCH_SCOPE" value="File '.../Data/DataContext.cs'" />
+    <option name="customScope" value="File '.../WebApiCore/Models/Dos/DosFerryBooking.cs'" />
+    <option name="defaultScopeName" value="File '.../WebApiCore/Models/Dos/DosFerryBooking.cs'" />
+    <option name="SEARCH_SCOPE" value="File '.../WebApiCore/Models/Dos/DosFerryBooking.cs'" />
   </component>
 </application>
