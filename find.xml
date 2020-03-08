@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '.../Data/Hooks'" />
-    <option name="defaultScopeName" value="Directory '.../Data/Hooks'" />
-    <option name="SEARCH_SCOPE" value="Directory '.../Data/Hooks'" />
+    <option name="customScope" value="File '.../Services/Authentication/User.cs'" />
+    <option name="defaultScopeName" value="File '.../Services/Authentication/User.cs'" />
+    <option name="SEARCH_SCOPE" value="File '.../Services/Authentication/User.cs'" />
   </component>
 </application>
