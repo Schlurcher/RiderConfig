@@ -6,6 +6,10 @@
   <MSSQLCodeStyleSettings version="2">
     <option name="QUERY_EL_COMMA" value="1" />
   </MSSQLCodeStyleSettings>
+  <XML>
+    <option name="XML_KEEP_BLANK_LINES" value="1" />
+    <option name="XML_SPACE_INSIDE_EMPTY_TAG" value="true" />
+  </XML>
   <codeStyleSettings language="JavaScript">
     <option name="ALIGN_MULTILINE_ARRAY_INITIALIZER_EXPRESSION" value="true" />
     <option name="SPACE_BEFORE_METHOD_PARENTHESES" value="true" />
