@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../Tests/AdminServiceTests.cs'" />
-    <option name="defaultScopeName" value="File '.../Tests/AdminServiceTests.cs'" />
-    <option name="SEARCH_SCOPE" value="File '.../Tests/AdminServiceTests.cs'" />
+    <option name="customScope" value="File '.../Data.Tests/Filters/AdminHouseOfferTests.cs'" />
+    <option name="defaultScopeName" value="File '.../Data.Tests/Filters/AdminHouseOfferTests.cs'" />
+    <option name="SEARCH_SCOPE" value="File '.../Data.Tests/Filters/AdminHouseOfferTests.cs'" />
   </component>
 </application>
