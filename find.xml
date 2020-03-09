@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '.../Services/MergableOptions'" />
-    <option name="defaultScopeName" value="Directory '.../Services/MergableOptions'" />
-    <option name="SEARCH_SCOPE" value="Directory '.../Services/MergableOptions'" />
+    <option name="customScope" value="File '.../Tests/AdminServiceTests.cs'" />
+    <option name="defaultScopeName" value="File '.../Tests/AdminServiceTests.cs'" />
+    <option name="SEARCH_SCOPE" value="File '.../Tests/AdminServiceTests.cs'" />
   </component>
 </application>
