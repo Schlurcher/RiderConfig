@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../Services/Mappings/AgencyMappings.cs'" />
-    <option name="defaultScopeName" value="File '.../Services/Mappings/AgencyMappings.cs'" />
-    <option name="SEARCH_SCOPE" value="File '.../Services/Mappings/AgencyMappings.cs'" />
+    <option name="customScope" value="File '.../Services/Components/AutoMapper/MemberConfigurationExpressionExtensions.cs'" />
+    <option name="defaultScopeName" value="File '.../Services/Components/AutoMapper/MemberConfigurationExpressionExtensions.cs'" />
+    <option name="SEARCH_SCOPE" value="File '.../Services/Components/AutoMapper/MemberConfigurationExpressionExtensions.cs'" />
   </component>
 </application>
