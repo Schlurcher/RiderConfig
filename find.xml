@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../Services/Components/AutoMapper/MemberConfigurationExpressionExtensions.cs'" />
-    <option name="defaultScopeName" value="File '.../Services/Components/AutoMapper/MemberConfigurationExpressionExtensions.cs'" />
-    <option name="SEARCH_SCOPE" value="File '.../Services/Components/AutoMapper/MemberConfigurationExpressionExtensions.cs'" />
+    <option name="customScope" value="File '.../Data/Filters/EtasHouseFilter.cs'" />
+    <option name="defaultScopeName" value="File '.../Data/Filters/EtasHouseFilter.cs'" />
+    <option name="SEARCH_SCOPE" value="File '.../Data/Filters/EtasHouseFilter.cs'" />
   </component>
 </application>
