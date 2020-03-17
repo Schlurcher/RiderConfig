@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../Services/Agency/AgencyProfile.cs'" />
-    <option name="defaultScopeName" value="File '.../Services/Agency/AgencyProfile.cs'" />
-    <option name="SEARCH_SCOPE" value="File '.../Services/Agency/AgencyProfile.cs'" />
+    <option name="customScope" value="File '.../Services/House/LandlordOccupancyService.cs'" />
+    <option name="defaultScopeName" value="File '.../Services/House/LandlordOccupancyService.cs'" />
+    <option name="SEARCH_SCOPE" value="File '.../Services/House/LandlordOccupancyService.cs'" />
   </component>
 </application>
