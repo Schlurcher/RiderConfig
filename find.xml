@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'WebApp'" />
-    <option name="defaultScopeName" value="Project 'WebApp'" />
+    <option name="customScope" value="File '.../WebApp/packages/local/ux-odata/src/ODataProxy.js'" />
+    <option name="defaultScopeName" value="File '.../WebApp/packages/local/ux-odata/src/ODataProxy.js'" />
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'WebApp'" />
+    <option name="SEARCH_SCOPE" value="File '.../WebApp/packages/local/ux-odata/src/ODataProxy.js'" />
   </component>
 </application>
