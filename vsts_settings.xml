@@ -13,10 +13,6 @@
           <option name="name" value="authType" />
           <option name="value" value="CREDS" />
         </PropertyState>
-        <PropertyState>
-          <option name="name" value="lastContextKey" />
-          <option name="value" value="//_tfs_last_used_url_" />
-        </PropertyState>
       </array>
     </option>
   </component>
