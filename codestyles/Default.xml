@@ -6,17 +6,18 @@
   </JSCodeStyleSettings>
   <MSSQLCodeStyleSettings version="2">
     <option name="QUERY_EL_COMMA" value="1" />
+    <option name="FROM_ALIGN_JOIN_TABLES" value="true" />
+    <option name="FROM_ONLY_JOIN_INDENT" value="1" />
   </MSSQLCodeStyleSettings>
+  <SqlCodeStyleSettings version="2">
+    <option name="FROM_ALIGN_JOIN_TABLES" value="true" />
+    <option name="FROM_INDENT_JOIN" value="false" />
+    <option name="FROM_ONLY_JOIN_INDENT" value="1" />
+  </SqlCodeStyleSettings>
   <XML>
     <option name="XML_KEEP_BLANK_LINES" value="1" />
     <option name="XML_SPACE_INSIDE_EMPTY_TAG" value="true" />
   </XML>
-  <codeStyleSettings language="JavaScript">
-    <option name="ALIGN_MULTILINE_ARRAY_INITIALIZER_EXPRESSION" value="true" />
-    <option name="SPACE_BEFORE_METHOD_PARENTHESES" value="true" />
-    <option name="ARRAY_INITIALIZER_LBRACE_ON_NEXT_LINE" value="true" />
-    <option name="ARRAY_INITIALIZER_RBRACE_ON_NEXT_LINE" value="true" />
-  </codeStyleSettings>
   <codeStyleSettings language="TSQL">
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
