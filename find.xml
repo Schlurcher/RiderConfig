@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../WebApi/Warehouse/WarehouseModel.cs'" />
-    <option name="defaultScopeName" value="File '.../WebApi/Warehouse/WarehouseModel.cs'" />
+    <option name="customScope" value="File '.../WebApi/Partner/PartnerModel.cs'" />
+    <option name="defaultScopeName" value="File '.../WebApi/Partner/PartnerModel.cs'" />
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../WebApi/Warehouse/WarehouseModel.cs'" />
+    <option name="SEARCH_SCOPE" value="File '.../WebApi/Partner/PartnerModel.cs'" />
   </component>
 </application>
