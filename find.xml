@@ -1,11 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Selected Files And Folders" />
-    <option name="defaultScopeName" value="Selected Files And Folders" />
-    <option name="localRegularExpressions" value="true" />
+    <option name="customScope" value="File '.../WebApi/Partner/PartnerModel.cs'" />
+    <option name="defaultScopeName" value="File '.../WebApi/Partner/PartnerModel.cs'" />
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Selected Files And Folders" />
+    <option name="SEARCH_SCOPE" value="File '.../WebApi/Partner/PartnerModel.cs'" />
   </component>
 </application>
