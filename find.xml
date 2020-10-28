@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../Data/Models/TransactionBase.cs'" />
-    <option name="defaultScopeName" value="File '.../Data/Models/TransactionBase.cs'" />
+    <option name="customScope" value="File '.../Data/Models/IncomingInvoice.cs'" />
+    <option name="defaultScopeName" value="File '.../Data/Models/IncomingInvoice.cs'" />
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../Data/Models/TransactionBase.cs'" />
+    <option name="SEARCH_SCOPE" value="File '.../Data/Models/IncomingInvoice.cs'" />
   </component>
 </application>
