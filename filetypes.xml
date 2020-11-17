@@ -1,7 +1,8 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping ext="dotx" type="Native" />
+      <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
