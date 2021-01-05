@@ -6,6 +6,10 @@
           <option name="url" value="https://git.al-c.net/tfs/DefaultCollection/Sardegna/_git/Sardegna.Leos" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.alsix.de" />
+          <option name="userName" value="stefan" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\stefan\Projects" />
