@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\WebApi\Mappings\LocalizableMappings.cs'" />
-    <option name="defaultScopeName" value="File '...\WebApi\Mappings\LocalizableMappings.cs'" />
+    <option name="customScope" value="File '...\WebApi\Services\AbstractService.cs'" />
+    <option name="defaultScopeName" value="File '...\WebApi\Services\AbstractService.cs'" />
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="File '...\WebApi\Mappings\LocalizableMappings.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\WebApi\Services\AbstractService.cs'" />
   </component>
 </application>
