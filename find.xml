@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\WebApi\Web.config'" />
-    <option name="defaultScopeName" value="File '...\WebApi\Web.config'" />
+    <option name="customScope" value="File '...\WebApi\Mappings\LocalizableMappings.cs'" />
+    <option name="defaultScopeName" value="File '...\WebApi\Mappings\LocalizableMappings.cs'" />
     <option name="localRegularExpressions" value="true" />
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '...\WebApi\Web.config'" />
+    <option name="SEARCH_SCOPE" value="File '...\WebApi\Mappings\LocalizableMappings.cs'" />
   </component>
 </application>
