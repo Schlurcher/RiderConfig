@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'Data'" />
-    <option name="defaultScopeName" value="Project 'Data'" />
+    <option name="customScope" value="Selected Files And Folders" />
+    <option name="defaultScopeName" value="Selected Files And Folders" />
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'Data'" />
+    <option name="SEARCH_SCOPE" value="Selected Files And Folders" />
   </component>
 </application>
