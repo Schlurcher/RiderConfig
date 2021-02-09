@@ -1,20 +1,24 @@
 <code_scheme name="Default" version="173">
-  <DB2CodeStyleSettings version="2">
+  <DB2CodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
     <option name="FROM_ALIGN_JOIN_TABLES" value="true" />
     <option name="FROM_INDENT_JOIN" value="false" />
     <option name="FROM_ONLY_JOIN_INDENT" value="1" />
   </DB2CodeStyleSettings>
-  <DerbyCodeStyleSettings version="2">
+  <DerbyCodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
     <option name="FROM_ALIGN_JOIN_TABLES" value="true" />
     <option name="FROM_INDENT_JOIN" value="false" />
     <option name="FROM_ONLY_JOIN_INDENT" value="1" />
   </DerbyCodeStyleSettings>
-  <H2CodeStyleSettings version="2">
+  <H2CodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
     <option name="FROM_ALIGN_JOIN_TABLES" value="true" />
     <option name="FROM_INDENT_JOIN" value="false" />
     <option name="FROM_ONLY_JOIN_INDENT" value="1" />
   </H2CodeStyleSettings>
-  <HSQLCodeStyleSettings version="2">
+  <HSQLCodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
     <option name="FROM_ALIGN_JOIN_TABLES" value="true" />
     <option name="FROM_INDENT_JOIN" value="false" />
     <option name="FROM_ONLY_JOIN_INDENT" value="1" />
@@ -23,38 +27,45 @@
     <option name="ALIGN_VAR_STATEMENTS" value="1" />
     <option name="SPACE_WITHIN_ARRAY_INITIALIZER_BRACKETS" value="true" />
     <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
+    <option name="SPACES_WITHIN_IMPORTS" value="true" />
   </JSCodeStyleSettings>
-  <MSSQLCodeStyleSettings version="2">
+  <MSSQLCodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
     <option name="QUERY_EL_COMMA" value="1" />
     <option name="FROM_ALIGN_JOIN_TABLES" value="true" />
     <option name="FROM_ONLY_JOIN_INDENT" value="1" />
   </MSSQLCodeStyleSettings>
-  <MySQLCodeStyleSettings version="2">
+  <MySQLCodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
     <option name="FROM_ALIGN_JOIN_TABLES" value="true" />
     <option name="FROM_INDENT_JOIN" value="false" />
     <option name="FROM_ONLY_JOIN_INDENT" value="1" />
   </MySQLCodeStyleSettings>
-  <OracleCodeStyleSettings version="2">
+  <OracleCodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
     <option name="FROM_ALIGN_JOIN_TABLES" value="true" />
     <option name="FROM_INDENT_JOIN" value="false" />
     <option name="FROM_ONLY_JOIN_INDENT" value="1" />
   </OracleCodeStyleSettings>
-  <PostgresCodeStyleSettings version="2">
+  <PostgresCodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
     <option name="FROM_ALIGN_JOIN_TABLES" value="true" />
     <option name="FROM_INDENT_JOIN" value="false" />
     <option name="FROM_ONLY_JOIN_INDENT" value="1" />
   </PostgresCodeStyleSettings>
-  <SQLiteCodeStyleSettings version="2">
+  <SQLiteCodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
     <option name="FROM_ALIGN_JOIN_TABLES" value="true" />
     <option name="FROM_INDENT_JOIN" value="false" />
     <option name="FROM_ONLY_JOIN_INDENT" value="1" />
   </SQLiteCodeStyleSettings>
-  <SqlCodeStyleSettings version="2">
+  <SqlCodeStyleSettings version="5">
     <option name="FROM_ALIGN_JOIN_TABLES" value="true" />
     <option name="FROM_INDENT_JOIN" value="false" />
     <option name="FROM_ONLY_JOIN_INDENT" value="1" />
   </SqlCodeStyleSettings>
-  <SybaseCodeStyleSettings version="2">
+  <SybaseCodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
     <option name="FROM_ALIGN_JOIN_TABLES" value="true" />
     <option name="FROM_INDENT_JOIN" value="false" />
     <option name="FROM_ONLY_JOIN_INDENT" value="1" />
