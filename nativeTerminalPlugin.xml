@@ -1,0 +1,5 @@
+<application>
+  <component name="com.sburlyaev.cmd.plugin.PluginSettings">
+    <option name="favoriteTerminal" value="C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe -noe -c &quot;&amp;{Import-Module &quot;&quot;&quot;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\Tools\Microsoft.VisualStudio.DevShell.dll&quot;&quot;&quot;; Enter-VsDevShell c012c905}&quot;" />
+  </component>
+</application>
