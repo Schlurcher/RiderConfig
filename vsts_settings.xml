@@ -4,7 +4,16 @@
       <array />
     </option>
     <option name="properties">
-      <array />
+      <array>
+        <PropertyState>
+          <option name="name" value="repoRoot" />
+          <option name="value" value="$USER_HOME$/Projects" />
+        </PropertyState>
+        <PropertyState>
+          <option name="name" value="authType" />
+          <option name="value" value="CREDS" />
+        </PropertyState>
+      </array>
     </option>
   </component>
 </application>
