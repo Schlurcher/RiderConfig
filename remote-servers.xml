@@ -5,7 +5,7 @@
         <option name="apiUrl" value="unix:///var/run/docker.sock" />
       </configuration>
     </remote-server>
-    <remote-server name="OMV" type="docker">
+    <remote-server name="omv" type="docker">
       <configuration>
         <option name="apiUrl" value="tcp://omv.fritz.box:2375" />
       </configuration>
