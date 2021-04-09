@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".dockerignore" type="AUTO_DETECTED" />
       <mapping ext="dotx" type="Native" />
+      <mapping pattern=".dockerenv" type="PLAIN_TEXT" />
       <mapping pattern=".DS_Store" type="PLAIN_TEXT" />
       <mapping pattern="._fonts" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
