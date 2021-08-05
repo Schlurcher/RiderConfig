@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../WebApi/SalesOrder/SalesOrderController.cs'" />
-    <option name="defaultScopeName" value="File '.../WebApi/SalesOrder/SalesOrderController.cs'" />
-    <option name="SEARCH_SCOPE" value="File '.../WebApi/SalesOrder/SalesOrderController.cs'" />
+    <option name="customScope" value="File '.../Data/Models/TransactionBase.cs'" />
+    <option name="defaultScopeName" value="File '.../Data/Models/TransactionBase.cs'" />
+    <option name="SEARCH_SCOPE" value="File '.../Data/Models/TransactionBase.cs'" />
   </component>
 </application>
