@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…/WebSpa/packages/local/madron-validators/package.json'" />
-    <option name="defaultScopeName" value="File '…/WebSpa/packages/local/madron-validators/package.json'" />
+    <option name="customScope" value="File '…/WebSpa/ExtStartupFilter.cs'" />
+    <option name="defaultScopeName" value="File '…/WebSpa/ExtStartupFilter.cs'" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '…/WebSpa/packages/local/madron-validators/package.json'" />
+    <option name="SEARCH_SCOPE" value="File '…/WebSpa/ExtStartupFilter.cs'" />
   </component>
 </application>
