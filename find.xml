@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…/WebSpa/SenchaMiddleware.cs'" />
-    <option name="defaultScopeName" value="File '…/WebSpa/SenchaMiddleware.cs'" />
+    <option name="customScope" value="File '…/WebSpa/packages/local/ux-logging/index.js'" />
+    <option name="defaultScopeName" value="File '…/WebSpa/packages/local/ux-logging/index.js'" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '…/WebSpa/SenchaMiddleware.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…/WebSpa/packages/local/ux-logging/index.js'" />
   </component>
 </application>
