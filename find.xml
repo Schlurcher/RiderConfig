@@ -1,9 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…/WebApi/Infrastructure/ODataModel.cs'" />
-    <option name="defaultScopeName" value="File '…/WebApi/Infrastructure/ODataModel.cs'" />
-    <option name="localRegularExpressions" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '…/WebApi/Infrastructure/ODataModel.cs'" />
+    <option name="customScope" value="File '…/Data/Models/Transactions/Transaction.cs'" />
+    <option name="defaultScopeName" value="File '…/Data/Models/Transactions/Transaction.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…/Data/Models/Transactions/Transaction.cs'" />
   </component>
 </application>
