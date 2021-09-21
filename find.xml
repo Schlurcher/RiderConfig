@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…/Data/Models/Warehousing/WarehouseMovement.cs'" />
-    <option name="defaultScopeName" value="File '…/Data/Models/Warehousing/WarehouseMovement.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…/Data/Models/Warehousing/WarehouseMovement.cs'" />
+    <option name="customScope" value="File '…/Data/Migrations/Scripts/12_SalesDeliveryNote/01_SalesDeliveryNotes.sql'" />
+    <option name="defaultScopeName" value="File '…/Data/Migrations/Scripts/12_SalesDeliveryNote/01_SalesDeliveryNotes.sql'" />
+    <option name="SEARCH_SCOPE" value="File '…/Data/Migrations/Scripts/12_SalesDeliveryNote/01_SalesDeliveryNotes.sql'" />
   </component>
 </application>
