@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…/WebApi/SalesOffer/SalesOfferController.cs'" />
-    <option name="defaultScopeName" value="File '…/WebApi/SalesOffer/SalesOfferController.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…/WebApi/SalesOffer/SalesOfferController.cs'" />
+    <option name="customScope" value="File '…/WebSpa/app/model/sales/SalesOrder.js'" />
+    <option name="defaultScopeName" value="File '…/WebSpa/app/model/sales/SalesOrder.js'" />
+    <option name="SEARCH_SCOPE" value="File '…/WebSpa/app/model/sales/SalesOrder.js'" />
   </component>
 </application>
