@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\WebApi\SalesOffer\SalesOfferPdf.cs'" />
-    <option name="defaultScopeName" value="File '…\WebApi\SalesOffer\SalesOfferPdf.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…\WebApi\SalesOffer\SalesOfferPdf.cs'" />
+    <option name="customScope" value="File '…\Data\Migrations\Scripts\12_SalesDeliveryNote\02_Lines.sql'" />
+    <option name="defaultScopeName" value="File '…\Data\Migrations\Scripts\12_SalesDeliveryNote\02_Lines.sql'" />
+    <option name="SEARCH_SCOPE" value="File '…\Data\Migrations\Scripts\12_SalesDeliveryNote\02_Lines.sql'" />
   </component>
 </application>
