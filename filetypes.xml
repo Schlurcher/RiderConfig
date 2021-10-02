@@ -2,19 +2,14 @@
   <component name="FileTypeManager" version="18">
     <ignoreFiles list="*.pyc;*.pyo;*.rbc;*.yarb;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc" />
     <extensionMap>
-      <mapping pattern="dotnet-ef6" type="AUTO_DETECTED" />
       <mapping ext="dotx" type="Native" />
       <mapping pattern=".DS_Store" type="PLAIN_TEXT" />
-      <mapping pattern=".dockerenv" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="._fonts" type="PLAIN_TEXT" />
+      <mapping ext="dcproj" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
-      <mapping ext="jsonp" type="PLAIN_TEXT" />
-      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
-      <removed_mapping ext="tfignore" approved="true" type=".tfignore" />
-      <removed_mapping pattern=".dockerignore" approved="true" type="Docker File" />
-      <removed_mapping pattern=".env" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dcproj" approved="true" type="Docker Compose" />
     </extensionMap>
   </component>
 </application>
