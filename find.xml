@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\WebApi\Warehouse\WarehouseMovementModel.cs'" />
-    <option name="defaultScopeName" value="File '…\WebApi\Warehouse\WarehouseMovementModel.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…\WebApi\Warehouse\WarehouseMovementModel.cs'" />
+    <option name="customScope" value="File '…\Data\Formulas.cs'" />
+    <option name="defaultScopeName" value="File '…\Data\Formulas.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\Data\Formulas.cs'" />
   </component>
 </application>
