@@ -10,7 +10,6 @@
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <removed_mapping ext="dcproj" approved="true" type="Docker Compose" />
-      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
     </extensionMap>
   </component>
 </application>
