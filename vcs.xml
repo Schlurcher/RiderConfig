@@ -38,9 +38,13 @@
           <option name="url" value="https://gitlab.alsix.de/systempack/erp.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.alsix.de/steinhaus/artistmanagement.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Stefan\Projects" />
+    <option name="cloneParentDir" value="$USER_HOME$/Projects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COMPACT_REFERENCES_VIEW" value="false" />
